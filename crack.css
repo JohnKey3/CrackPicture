@@ -40,6 +40,7 @@
     height: 85%;
     
     background: url(disc.png);
+    background-size: 100%;
     padding: var(--space-body);
     
   }

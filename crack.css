@@ -38,7 +38,8 @@
       
     overflow: hidden;
     height: 85%;
-    background-image: url(disc.png);
+    
+    background: url(disc.png);
     padding: var(--space-body);
     
   }
@@ -68,6 +69,7 @@
   ​
 
   body {
+     
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
